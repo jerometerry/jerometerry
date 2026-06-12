@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-[authenticnerd.com](https://authenticnerd.com/)
+[authenticnerd.com website](https://authenticnerd.com/)
+
+[authentinticnerd.com GitGub Repo](https://github.com/jerometerry/authenticnerd)
 
 [pi-borescope-streamer](https://github.com/jerometerry/pi-borescope-streamer)
 
