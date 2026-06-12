@@ -2,6 +2,8 @@
 
 [authenticnerd.com](https://authenticnerd.com/)
 
+[pi-borescope-streamer](https://github.com/jerometerry/pi-borescope-streamer)
+
 <!--
 **jerometerry/jerometerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
