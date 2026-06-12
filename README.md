@@ -3,13 +3,22 @@
 [authenticnerd.com website](https://authenticnerd.com/)
 
 ### GitHub Repos
-[authentinticnerd.com GitGub Repo](https://github.com/jerometerry/authenticnerd)
 
-[pi-borescope-streamer](https://github.com/jerometerry/pi-borescope-streamer)
+#### AuthenticNerd
 
-[raspberry-pi5](https://github.com/jerometerry/raspberry-pi5)
+https://github.com/jerometerry/authenticnerd
 
-[arduino](https://github.com/jerometerry/arduino)
+#### pi-borescope-streamer
+
+https://github.com/jerometerry/pi-borescope-streamer
+
+#### Raspberry Pi 5
+
+https://github.com/jerometerry/raspberry-pi5
+
+#### Arduino
+
+https://github.com/jerometerry/arduino
 
 <!--
 **jerometerry/jerometerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
